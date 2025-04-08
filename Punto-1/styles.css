@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    justify-content: center;
+    height: 100vh; 
+    margin: 0 auto; 
+
+}
+
+section{
+    position: relative;
+    height: 80%;
+    width: 40%;
+    border: 2px solid black;
+    margin-top: 20px;
+}
+
+.block-1, .block-2, .block-3{
+    height: 100px;
+    width: 100px;
+}
+
+.block-2{
+    position: absolute;
+    background: yellow;
+    right: 10px;
+    bottom: 10px;
+}
+
+.block-1{
+    position: relative;
+    background: red;
+    top: 10px;
+    left: 10px;
+}
+
+.block-3{
+    position: fixed;
+    background: blue;
+    right: 0;
+}
+
