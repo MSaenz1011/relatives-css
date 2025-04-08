@@ -13,4 +13,5 @@ Capturas de pantalla a continuación
 
 
 **Punto 2**
-![image](https://github.com/user-attachments/assets/02d0a858-94ce-4a03-a078-21166bb86253)
+![image](https://github.com/user-attachments/assets/495a50f0-61e6-4538-8b1d-72160d3c3ebe)
+
