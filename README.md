@@ -1,4 +1,4 @@
-# Punto 2
+# Taller CSS (2)
 
 **Descripción**
 
